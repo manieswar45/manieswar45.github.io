@@ -9,6 +9,7 @@
 
 body {
   font-family: "Poppins", sans-serif;
+  
 }
 
 html {
@@ -55,7 +56,7 @@ a:hover {
   color: grey;
   text-decoration: underline;
   text-underline-offset: 1rem;
-  text-decoration-color: rgb(181, 181, 181);
+  text-decoration-color: rgb(252, 252, 252);
 }
 
 .logo {
@@ -361,7 +362,7 @@ article .icon {
 
 .color-container {
   border-color: rgb(163, 163, 163);
-  background: rgb(250, 250, 250);
+  background: rgb(255, 255, 255);
 }
 
 .project-img {
